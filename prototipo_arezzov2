@@ -1,0 +1,20 @@
+{
+	"Request name": "Send request",
+	"Request": {
+		"Method": "POST",
+		"Request content type": "application/json",
+		"Request URL": "apps/upminer/batches",
+		"Request body": "{\n  \"inputs\": [\n    \"47912494000144\"\n  ],\n \"input_type\": 2,\n \"search_profile_id\": 236,\n \"break_batches\": false\n}",
+		"Request headers": [
+			{
+				"header": "Authorization",
+				"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJlMjIzYjU2NC01ZGY2LTQ3Y2QtOTJhMi1kNGJmZTc0NzkxMWIiLCJqdGkiOiJkMTEwN2VmMjdmZjUyYTlhNzNlMDY1NTcyMjZjOWUzZjcyYmFkYTFiYmQ4ZDM0ZmM2ZmRiODQxNDI0MDY4ZjI2YzliZWQ0MjQ2MTEyNWVlYSIsImlhdCI6MTY3ODM2Nzg3Ni4xNzEwMjQsIm5iZiI6MTY3ODM2Nzg3Ni4xNzEwMjcsImV4cCI6MTY3ODM3MTQ3Ni4xNjY0MTIsInN1YiI6IiIsInNjb3BlcyI6WyIqIl0sImNsaWVudF9pZCI6MjUyNTEsImFwcHMiOltdLCJzb3VyY2VzIjpbXSwicmF0ZUxpbWl0IjoxNjB9.YPaun0hi7h-kJGLkMvz-Seiz6OU85n9o4jOZ5hypmtH_-BzDw4blLrwP9DV2mXG-HggYmAE5vUKxg9tilsu4PRObbajLmQVDV7gjRQZvedvIc1qsyYyJkkXWrXf4u8Q83epz8OAvFMrTkiTzNJ44WsaU6-wm-YA3UAV7Ox7p_ffcC7f3Dvk67QF-VFFSUQUVI-y4R3JYmBJjwgxXi3OsMK9hoJElAjFPxmlvZf6ROPBERmTKXjVnhpaOiJCX9UnU5AJifQsPq6v-u7mG1FOxI2JtmeKSz6TweA5l7JE76YHCT_5c29dLKpnIFsSXLcxuVXUj-mEgDc3ilp69vmRLJIMIkKE9dnDgCxDA0svmXEnqY-mkc8jDzOCoe-LT3sMgsfinUwhOioxyd9rbdf53eYsfKLs7DjKC6DS1grjUK3d0FnFjMuZSXn22q_eK8U7QmzuELphTx54sdXU6vgKuKQSI809CtOmZ7NzgYZ23ma65P--j-e5A_XvWiLJy8U9aJH4U_RyqUuqf62fmmgv_uBw0CoVFOaKmDt9Mv1bFjbUYdCJi0JXaVEQGNdAWps8kKVPLx8JMs5q70GnN_6QgBnQtpMRUa0dlM3c9hXz24mIv19hk1IR0gruaAWacyfBmdxUWqVRLTH0_luwscfsH4-1LFTXomGXqe5wrmKs0NYQ"
+			}
+		]
+	},
+	"Response": {
+		"Response content type": "json",
+		"Encoding": "UTF-8",
+		"Mark non-2xx response codes as success?": "false"
+	}
+}}}}}}}}}}}
