@@ -1,0 +1,12 @@
+{
+	"Request name": "Send request",
+	"Request": {
+		"Method": "POST",
+		]
+	},
+	"Response": {
+		"Response content type": "json",
+		"Encoding": "UTF-8",
+		"Mark non-2xx response codes as success?": "false"
+	}
+}
