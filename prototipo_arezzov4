@@ -1,0 +1,16 @@
+{
+	"Request name": "Send request",
+	"Request": {
+		"Method": "POST",
+		"Request content type": "application/json",
+		"Request URL": "apps/upminer/batches",
+		"Request body": "{\n  \"inputs\": [\n    \"47912494000144\"\n  ],\n \"input_type\": 2,\n \"search_profile_id\": 236,\n \"break_batches\": false\n}",
+		"Request headers": [
+			{
+				"he}}}}}}}}}}}}}
+	"Response": {
+		"Response content type": "json",
+		"Encoding": "UTF-8",
+		"Mark non-2xx response codes as success?": "false"
+	}
+}
